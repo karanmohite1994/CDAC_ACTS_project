@@ -1,4 +1,4 @@
-# CDAC_ACTS_project
+# DMA Controller using SPI
 
 This project “DMA Controller using SPI” was a great learning experience for us and we are
 submitting this work to Advanced Computing Training School (CDAC ACTS). We are very
