@@ -1,4 +1,4 @@
-# CDAC_KaranMohite_project
+# CDAC_ACTS_project
 
 This project “DMA Controller using SPI” was a great learning experience for us and we are
 submitting this work to Advanced Computing Training School (CDAC ACTS). We are very
@@ -12,7 +12,11 @@ and throughout the course up to the last day here in C-DAC ACTS, Pune.
 From:
 
 Mr. Pawan Gollu PRN: 200240133009
+
 Mr. Jayesh Thakre PRN: 200240133012
+
 Mr. Karan Mohite PRN: 200240133016
+
 Mr. Puneet Kumar PRN: 200240133020
+
 Ms. Vishakha Takale PRN: 200240133027
